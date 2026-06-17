@@ -6,7 +6,7 @@ Tutorial at ISC High Performance 2026
 
 [Event website and Program](https://isc-hpc.com/program/schedule/)
 
-![BlueField 3 SmartNIC](https://github.com/gt-crnch-rg/smartnic-tutorial-sc25/blob/2b33a3f47e94bf85083d54571c9a110bd97f93bc/fig/smartnic_bf3.jpg)
+![BlueField 3 SmartNIC](fig/isc25_hamburg.jpg)
 
 ## Audience Tutorial Survey
 
@@ -27,15 +27,33 @@ Please note that tutorials require a separate registration category for ISC High
 
 [Register here](https://isc-hpc.com/attendance/registration/)
 
-## Agenda
+## Tutorial Date/Time
 
 Official ISC 2026 schedule slot:
 
-* Monday, June 22, 2026
+* Monday, 22nd of June, 2026
 * 9:00 AM - 1:00 PM
 * Hall X11 (1st Floor)
 
 Conference schedule reference: [ISC 2026 Schedule](https://isc-hpc.com/program/schedule/)
+
+# Tutorial Agenda
+
+| Time | Topic | Details |
+|------|-------|---------|
+| 9:00–9:10 | Introduction | Attendee Survey; intro to Hands-On |
+| 9:10–9:25 | Communication Offloading | SmartNIC overview; DPU examples; DPU programming models |
+| 9:25–9:40 | SmartNIC Use Cases | Packet processing, cyber-security, AI/HPC |
+| 9:40–9:55 | Infrastructure SW – DOCA and P4 Introduction | Brief introduction to DOCA/P4 |
+| 10:00–10:30 | HPC Programming – Part 1 | MPI Offload; DPA Programming |
+| 10:30–11:00 | HPC Programming – Part 2 | OpenMP Offload |
+| 11:00–11:30 | **BREAK** | |
+| 11:30–11:45 | Hands-on DOCA/P4 | Attendees follow along in compiling and running test examples |
+| 11:45–11:55 | Hands-on DPA Demo | |
+| 11:55–12:15 | Hands-on HPC Demo – OpenMP/MPI Offload | |
+| 12:15–12:30 | Storage Acceleration | Discussion of use case for SmartNICs with storage systems for AI |
+| 12:30–12:35 | Tutorial Survey | |
+| 12:35–1:00 | Continued Hands-on Activities | Time to work with the instructors on the presented demos and test cases |
 
 ## Hands-on Examples
 
