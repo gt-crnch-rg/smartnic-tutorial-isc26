@@ -57,7 +57,9 @@ Conference schedule reference: [ISC 2026 Schedule](https://isc-hpc.com/program/s
 
 ## Hands-on Examples
 
-Hands-on instructions will be shared closer to the tutorial date!
+See the "hands-on" folder for and overview of the hands on examples and pointers to specific source code. 
+
+See the hands-on testbed login information at this [Google Doc](https://docs.google.com/document/d/1yV0nXo3pqqT7qdXVM6LqnOBwPGNvaoQ-dXFztc6gPts/edit?usp=sharing). Please note this will only be available for the week of the conference, but we will discuss options to follow on with further testing.
 
 The following topics will be covered via selected hands-on modules using the [FABRIC testbed](https://fabric-testbed.net/) and [Netlab testbed](https://research.cec.sc.edu/cyberinfra/cybertraining).
 
