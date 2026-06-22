@@ -10,7 +10,10 @@ Tutorial at ISC High Performance 2026
 
 ## Audience Tutorial Survey
 
-We will share a short attendee survey here in addition to the ISC survey on the day of the event. 
+Please fill out this short (3 question) attendee survey here in addition to the ISC survey. 
+
+- [ISC Survey](https://ssl.linklings.net/conferences/isc_hpc/?page=SessionEval&id=sess328&new_year=ischpc2026)
+- [DPU Tutorial Content Feedback Survey](https://forms.office.com/Pages/ResponsePage.aspx?id=u5ghSHuuJUuLem1_Mvqgg82dnXP1iqRHvc472TcBXahUMjk2TlhCWkFPVEpESDBVRDk2RlYzREJEQy4u)
 
 ## Presenters
 
